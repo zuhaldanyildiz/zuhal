@@ -55,33 +55,31 @@ p {
 /*****contact **********/
 
 
-#page-contact {
+    #page-contact {
 
-background-color: black;
-    
-    
+    background-color: black;
     height: 100vh; /******keep contact page always at 100%of viewpoint height ****////
     overflow: hidden;
      
 }
 
-#page-contact  #address {
+    #page-contact  #address {
 
-margin-top: 300px;
+    margin-top: 300px;
     
     margin-left:30%;
     
-}
+        }
 
 
-#address {
+    #address {
 
-color: white;
+    color: white;
     font-weight: lighter;
-    font-family: georgia;
-    
-    
+    font-family: georgia;   
 }
+
+
 /*** footer ****/
 
 
